@@ -1,5 +1,7 @@
 # 🚀 MetaMCP（MCP 聚合器、编排器、中间件、网关于一体的 Docker 解决方案）
 
+> **Fork 说明：** 本项目 fork 自 [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp)。
+
 <div align="center">
 
 <div align="center">
