@@ -1,5 +1,7 @@
 # 🚀 MetaMCP (MCP Aggregator, Orchestrator, Middleware, Gateway in one docker) <!-- omit in toc -->
 
+> **Fork Notice:** This project is forked from [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp).
+
 <div align="center">
 
 <div align="center">
